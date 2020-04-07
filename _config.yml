@@ -1,5 +1,5 @@
 # Site settings
-title: Green Brown Post
+title: greenbrown.
 description:
 lang: en-US
 timezone: Asia/Jakarta
@@ -8,8 +8,8 @@ repo: https://github.com/piharpi/mahendrata.now.sh
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
-author:
-  name: Lidya Christina
+author: Lidya Christina
+  name: /se·nan·di·ka/ Green Brown
   bio: >-
     A personal site and blog - /se·nan·di·ka/
   username: greenbrown
