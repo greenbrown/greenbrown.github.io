@@ -8,8 +8,8 @@ repo: https://github.com/greenbrown/greenbrown.github.io
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
-author: Lidya.
-  name: Lidya
+author: 
+  name: Lidya.
   bio: >-
     The beautiful is the being who has felt it · /se·nan·di·ka/
   username: greenbrown
