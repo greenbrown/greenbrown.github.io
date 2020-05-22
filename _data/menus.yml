@@ -2,8 +2,8 @@
   url: /
   external: false
 
-- title: journal
-  url: /journal/
+- title: about
+  url: /about/
   external: false
 
 - title: notes
